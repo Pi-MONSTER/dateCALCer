@@ -8,7 +8,7 @@ I found I frequently need to so I made this cli program.
 
 
 
-Typing "help" displays the previous version(s) changelog.
+
 
 
 ![dateCALCer23](https://user-images.githubusercontent.com/49348036/155862481-6f40bdf2-981a-49ca-8d3c-46d3c42b4a88.png)
@@ -21,7 +21,7 @@ Typing "help" displays the previous version(s) changelog.
 
 
 ### CHANGELOG
-
+Typing "help" displays the previous version(s) changelog.
 ###### 2.3 changelog typo corrected.
 ###### 2.2 example entries now display current date entry format.
 ###### 2.1 For faster execution/convenience changed today from typing 'y' to 'enter' key.
