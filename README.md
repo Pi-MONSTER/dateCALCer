@@ -12,7 +12,7 @@ Typing "help" displays the previous version(s) changelog:
 
 
 ### CHANGELOG
-`
+``
 ###### 2.3 changelog typo corrected
 ###### 2.2 example entries now display current date entry format
 ###### 2.1 For faster execution/convenience changed today from typing 'y' to 'enter' key
