@@ -1,4 +1,4 @@
-# Date difference calculator v2.3 2020 by PiMONSTER
+# Date difference calculator
 
 UK date format only ie. 31/12/21
 
