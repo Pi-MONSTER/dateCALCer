@@ -1,6 +1,6 @@
 # Date difference calculator v2.3 2020 by PiMONSTER
 
-UK date format ie. 31/12/21
+UK date format only ie. 31/12/21
 
 
 Do you ever need to know how many days it is between two dates ?
@@ -21,7 +21,7 @@ I found I frequently need to so I made this cli program.
 
 
 ### CHANGELOG
-Typing "help" displays the previous version(s) changelog.
+Typing "help" in the first date field displays the previous version(s) changelog.
 ###### 2.3 changelog typo corrected.
 ###### 2.2 example entries now display current date entry format.
 ###### 2.1 For faster execution/convenience changed today from typing 'y' to 'enter' key.
