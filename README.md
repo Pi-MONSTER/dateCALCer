@@ -8,7 +8,7 @@ I found I frequently need to so I made this cli program.
 
 
 
-Typing "help" displays the previous version(s) changelog:
+Typing "help" displays the previous version(s) changelog.
 ```
 
 
