@@ -9,10 +9,10 @@ I found I frequently need to so I made this cli program.
 
 
 Typing "help" displays the previous version(s) changelog:
+```
 
+```
 
-
-<div>
 
 ### CHANGELOG
 
@@ -21,4 +21,3 @@ Typing "help" displays the previous version(s) changelog:
 ###### 2.1 For faster execution/convenience changed today from typing 'y' to 'enter' key
 ###### 2.0 Date format now - Year without century, zero-padded. Added this changelog, made indentation consistant (tabs).
 ###### 1.9 working version, year must contain century, day and month are zero-padded decimal numbers
-</div>
